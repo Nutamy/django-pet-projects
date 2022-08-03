@@ -1,0 +1,13 @@
+path
+C:\Users\Python\PycharmProjects\pythonProject\pass_gen> 
+
+to enter a folder
+cd name_folder
+
+to install Django
+pip django
+
+to start django
+python manage.py runserver
+
+git init
